@@ -7,14 +7,14 @@ This project uses **IBM Watsonx.ai AutoAI** to recommend crops based on soil and
 
 ## ⚙️ Model
 - Tool Used: **IBM Watsonx.ai (AutoAI)**
-- Fastest & Best Performing Model: **Random Forest Classifier**
-- Accuracy: *[Add if known]*
+- Fastest & Best Performing Model: **Snap Random Forest Classifier**
+- Accuracy: *0.981*
 
 ## 📸 Screenshots
 
 | AutoAI Model Summary | Best Performing Pipeline |
 |----------------------|--------------------------|
-| ![](screenshots/model_summary.png) | ![](screenshots/best_pipeline.png) |
+| ![](C:\Users\ashwi\OneDrive\ドキュメント\Desktop\AI and Cloud Projects\Crop recommendation\relationship map.jpg) | ![](screenshots/best_pipeline.png) |
 
 ## 🧠 Notes
 - The model was trained and evaluated using AutoAI.
