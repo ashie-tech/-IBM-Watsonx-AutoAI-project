@@ -12,9 +12,9 @@ This project uses **IBM Watsonx.ai AutoAI** to recommend crops based on soil and
 
 ## 📸 Screenshots
 
-| AutoAI Model Summary | Best Performing Pipeline |
-|----------------------|--------------------------|
-| ![](C:\Users\ashwi\OneDrive\ドキュメント\Desktop\AI and Cloud Projects\Crop recommendation\relationship map.jpg) | ![](screenshots/best_pipeline.png) |
+| AutoAI Model Summary                  | Best Performing Pipeline |
+|------------------------------------   |--------------------------|
+| ![Visual Map](relationship%20map.jpg) | ![](screenshots/best_pipeline.png) |
 
 ## 🧠 Notes
 - The model was trained and evaluated using AutoAI.
